@@ -24,6 +24,26 @@ HOW IT SEEMS?
 When we first start the project, it asks us which option we want.
 ![Ekran Görüntüsü (40)](https://github.com/omerogut/Project_image_processing/assets/70850081/25b2d36c-a010-47f1-8174-cb3c9dfea60f)
 
+If we choose 1, it opens the Lips color and we can see in the next picture how it seems.
+![Ekran Görüntüsü (21)](https://github.com/omerogut/Project_image_processing/assets/70850081/42cccc8a-861a-4e36-a57c-7c0ec7fec406)
+If we change the colors degrees, lips color change with them.
+![Ekran Görüntüsü (23)](https://github.com/omerogut/Project_image_processing/assets/70850081/7aeb89e3-25ab-417d-bed7-b0fd0ffc5a2c)
+
+If we choose the second option, pig nose, we will see the next picture
+![Ekran Görüntüsü (25)](https://github.com/omerogut/Project_image_processing/assets/70850081/2ca3acf3-e7e2-4358-8ab3-e92e106d5fc3)
+
+If we choose the third option, devil horns, we will see the next picture.
+![screenshot_9d770a56](https://github.com/omerogut/Project_image_processing/assets/70850081/337eee8b-24a3-4fe8-912e-d0ec4d313b84)
+
+If we choose the fourth option, mustache, we will see the next picture.
+![mustache_ss](https://github.com/omerogut/Project_image_processing/assets/70850081/70ddcdee-1fce-4e3a-bd9e-f0c707655d8d)
+
+And if we push the space button, it will take screenshot and save the picture in the files
+![Ekran Görüntüsü (27)](https://github.com/omerogut/Project_image_processing/assets/70850081/f92171a0-e309-486f-bcd6-427cba672dc5)
+
+
+
+
 
 
 
